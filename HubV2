@@ -228,7 +228,7 @@ local v11 = v8:CreateWindow({
 	TabWidth = 160,
 	Size = UDim2.fromOffset(580, 460),
 	Acrylic = true,
-	Theme = "Aqua",
+	Theme = "Rose",
 	MinimizeKey = Enum.KeyCode.LeftControl
 })
 
@@ -251,7 +251,7 @@ local v12 = {
 	}),
 	Page5 = v11:AddTab({
 		Title = "Tab Item Farm",
-		Icon = "cat"
+		Icon = "add-circle"
 	}),
 	Page6 = v11:AddTab({
 		Title = "Tab Auto World",
