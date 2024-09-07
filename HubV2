@@ -228,38 +228,38 @@ local v11 = v8:CreateWindow({
 	TabWidth = 160,
 	Size = UDim2.fromOffset(580, 460),
 	Acrylic = true,
-	Theme = "Rose",
+	Theme = "Darker",
 	MinimizeKey = Enum.KeyCode.LeftControl
 })
 
 local v12 = {
 	Page1 = v11:AddTab({
 		Title = "Tab Main",
-		Icon = "home"
+		Icon = ""
 	}),
 	Page2 = v11:AddTab({
 		Title = "Tab Status",
-		Icon = "settings"
+		Icon = ""
 	}),
 	Page3 = v11:AddTab({
 		Title = "Tab Settings",
-		Icon = "apps-list"
+		Icon = ""
 	}),
 	Page4 = v11:AddTab({
 		Title = "Tab Shop",
-		Icon = "shopping-cart"
+		Icon = ""
 	}),
 	Page5 = v11:AddTab({
 		Title = "Tab Item Farm",
-		Icon = "add-circle"
+		Icon = ""
 	}),
 	Page6 = v11:AddTab({
 		Title = "Tab Auto World",
-		Icon = "airplane"
+		Icon = ""
 	}),
 	Page8 = v11:AddTab({
 		Title = "Tab Misc",
-		Icon = "list-plus"
+		Icon = ""
 	}),
 }
 
